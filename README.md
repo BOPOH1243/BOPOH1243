@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BOPOH1243
 - 👀 I’m interested in ⚣fixting⚣
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ⚣
+- 📫 How to reach me ⚣
 
 <!---
 BOPOH1243/BOPOH1243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
