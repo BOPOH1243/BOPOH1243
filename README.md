@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ⚣
 - 📫 How to reach me https://vk.com/black_backed_jackal
-                      Властелин#8051
+                      Nonus Vulpius Magus#8051
 
 <!---
 BOPOH1243/BOPOH1243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
