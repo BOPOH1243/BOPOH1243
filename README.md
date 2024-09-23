@@ -2,7 +2,7 @@
 - 👀 I’m interested in ⚣fixting⚣
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ⚣
-- 📫 How to reach me https://vk.com/black_backed_jackal
+- 📫 How to reach me @black_backed_jackal
                       Nonus Vulpius Magus#8051
 
 <!---
