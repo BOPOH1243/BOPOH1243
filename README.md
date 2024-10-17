@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BOPOH1243
 - 👀 I’m interested in ⚣fixting⚣
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ⚣
 - 📫 How to reach me @black_backed_jackal
                       Nonus Vulpius Magus#8051
